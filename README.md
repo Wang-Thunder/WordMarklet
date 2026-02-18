@@ -18,17 +18,20 @@ A simple bookmarklet that will quickly tell you the number of words and characte
 
 The main window shows the word count, character count, estimated reading time (@ 230WPM), a timer bar, and some controls:
 
-<img width="1375" height="537" alt="image" src="https://github.com/user-attachments/assets/8cf4de7e-982b-4ab9-b62a-a4ec1bb2d3f4" />
+
+<img width="634" height="470" alt="image" src="https://github.com/user-attachments/assets/6810744d-d547-47e2-adb5-809665a344d6" />
 
 
 Pressing the cog icon will open the settings menu where you can toggle auto-close, the auto-close time (this is how many seconds the window will stay open before it automatically closes), and the history items to store:
 
-<img width="603" height="362" alt="image" src="https://github.com/user-attachments/assets/b57f41dd-c387-4cab-ac13-5b354f8dfb2c" />
+
+<img width="615" height="459" alt="image" src="https://github.com/user-attachments/assets/03403e86-a9c4-474c-8371-f6d5cfb117e6" />
 
 
 The history menu keeps track of the last X wordcount checks you performed. It captures the number of words/characters, a brief snippet of the captured words, and a timestamp. You can clear the items from your history here as well. All of this information is stored securely in your browser. This feature is helpful for those individuals that may forget what they were just doing from time to time *cough cough*
 
-<img width="594" height="430" alt="image" src="https://github.com/user-attachments/assets/40b17226-25f5-4afa-8545-c0c106b40f44" />
+
+<img width="607" height="537" alt="image" src="https://github.com/user-attachments/assets/b53c17b7-1b20-4b17-9495-1451f4784dbe" />
 
 
 
